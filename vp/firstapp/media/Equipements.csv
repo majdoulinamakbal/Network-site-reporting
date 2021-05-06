@@ -1,0 +1,235 @@
+Equipements :
+
+HostName,IPAddress,Model,Version,SerialNo,type,Role,CPU,client
+MAR_ASR1_L2L_VPN-IAM,172.17.221.5/28,ASR1002,15.1(3)S2,FOX1402GQDD,Routeur,,0%,cbi,2020-09-01 11:17:00
+SW_EQHQ_ET2,172.16.1.20/24,C9200L-24P-4G,16.09.02,JAE22520FUA,Switch,Standby, 3%,casablanca,2020-08-30 21:53:00
+SW_EQHQ_ET2,172.16.1.20/24,C9200L-24P-4G,16.09.02,JAE225214SU,Switch,Active,2%,casablanca,2020-08-30 21:53:00
+SW_EQHQ_ET2,172.16.1.20/24,C9200L-24P-4G,16.09.02,JAE230201DP,Switch,null, 4%,casablanca,2020-08-30 21:53:00
+TP-self-signed-4139362048,10.74.146.174/28,WS-C3750X-12S-E,15.0(2)SE10a,FDO1750P0EQ,Switch,Member,0,rabat,2020-08-30 21:51:00
+TP-self-signed-4139362048,10.74.146.174/28,WS-C3750X-12S-E,15.0(2)SE10a,FDO1750P0GJ,Switch,Master,11%,rabat,2020-08-30 21:51:00
+
+
+Modules :
+
+HostName,Modname,DESCRI,PID,VID,EquipSN
+MAR_ASR1_L2L_VPN-IAM,"""Power Supply Module 1""",Cisco ASR1002 AC Power Suppl,ASR1002-PWR-AC,V03,ART1705U052,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""Power Supply Module 0""",Cisco ASR1002 AC Power Suppl,ASR1002-PWR-AC,V03,ART1705U059,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""subslot 0/1 transceiver 1""",GE S,GLC-SX-MMD,A,FNS17071BVA,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""subslot 0/1 transceiver 6""",GE S,GLC-SX-MMD,A,FNS17071BVR,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""subslot 0/1 transceiver 4""",GE S,GLC-SX-MMD,A,FNS17071BZF,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""subslot 0/1 transceiver 3""",GE S,GLC-SX-MMD,A,FNS17071C2X,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""Chassis""",Cisco ASR1002 Chassi,ASR1002,V02,FOX1402GQDD,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""module 0""",Cisco ASR1002 SPA Interface Processor 1,ASR1002-SIP10,V02,JAE1411063J,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""module R0""",Cisco ASR1002 Route Processor ,ASR1002-RP1,V02,JAE14110AHQ,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""module F0""","Cisco ASR1000 Embedded Services Processor, 5Gbp",ASR1000-ESP5,V03,JAE171202FY,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""subslot 0/0 transceiver 2""",GE ,N/A,E,MTC171006TZ,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""subslot 0/0 transceiver 1""",GE ,N/A,E,MTC171006U4,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""subslot 0/1 transceiver 0""",GE ,N/A,E,MTC171006ZC,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""subslot 0/1 transceiver 2""",GE ,N/A,E,MTC1710071E,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""subslot 0/0 transceiver 3""",GE ,N/A,E,MTC1710071G,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""subslot 0/0 transceiver 0""",GE ,N/A,E,MTC1710071L,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""SPA subslot 0/0""",4-port Gigabit Ethernet Shared Port Adapte,4XGE-BUILT-IN,V00,N/A,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,"""SPA subslot 0/1""",8-port Gigabit Ethernet Shared Port Adapte,SPA-8X1GE-V2,V02,SAL17100DEA,2020-09-01 11:17:00
+SW_EQHQ_ET2,"""StackAdapter2/1""",StackAdapter2/,C9200-STACK,V01,JAE22501AV9,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""Switch 2""",C9200L-24P-4G-,C9200L-24P-4G-E,V01,JAE22520FUA,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""StackAdapter1/2""",StackAdapter1/,C9200-STACK,V01,JAE22520LNR,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""StackAdapter1/1""",StackAdapter1/,C9200-STACK,V01,JAE22520PJB,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""StackAdapter2/2""",StackAdapter2/,C9200-STACK,V01,JAE22520S1S,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""c92xxL Stack""",c92xxL Stac,C9200L-24P-4G-E,V01,JAE225214SU,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""StackAdapter3/2""",StackAdapter3/,C9200-STACK,V01,JAE22521832,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""StackAdapter3/1""",StackAdapter3/,C9200-STACK,V01,JAE22521AH7,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""Switch 3""",C9200L-24P-4G-,C9200L-24P-4G-E,V01,JAE230201DP,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""StackPort1/1""",StackPort1/,STACK-T4-50CM,V03,LCC2247H5HW,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""StackPort2/1""",StackPort2/,STACK-T4-50CM,V03,LCC2247H5Q4,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""StackPort1/2""",StackPort1/,STACK-T4-50CM,V03,LCC2247H6DK,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""Gi1/1/1""",1000BaseSX SF,GLC-SX-MMD,V01,OPM22440S29,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""Gi3/1/1""",1000BaseSX SF,GLC-SX-MMD,V01,OPM22440S30,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""Switch 2 - Power Supply B""",Switch 2 - Power Supply ,PWR-C5-600WAC,V01,QCS22404S7U,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""Switch 1 - Power Supply B""",Switch 1 - Power Supply ,PWR-C5-600WAC,V01,QCS22414P4U,2020-08-30 21:53:00
+SW_EQHQ_ET2,"""Switch 3 - Power Supply B""",Switch 3 - Power Supply ,PWR-C5-600WAC,V01,QCS22504P01,2020-08-30 21:53:00
+TP-self-signed-4139362048,"""GigabitEthernet1/0/7""",10/100/1000BaseTX SF,Unspecified,,AGM1633227G,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet1/0/6""",10/100/1000BaseTX SF,Unspecified,,AGM163420A8,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet1/0/9""",10/100/1000BaseTX SF,Unspecified,,AGM163421P3,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet1/0/8""",10/100/1000BaseTX SF,Unspecified,,AGM163421PA,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet2/0/6""",10/100/1000BaseTX SF,Unspecified,,AGM193843G8,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet2/0/7""",10/100/1000BaseTX SF,GLC-TE,V01,AVC221923BV,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet2/0/10""",10/100/1000BaseTX SF,GLC-TE,V01,AVC221923BW,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""Switch 2 - Power Supply 0""",FRU Power Suppl,C3KX-PWR-350WAC,V03A,AZS174301RE,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""Switch 1 - Power Supply 0""",FRU Power Suppl,C3KX-PWR-350WAC,V03A,AZS174301RF,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""2""",WS-C3750X-12,WS-C3750X-12S-E,V04,FDO1750P0EQ,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""1""",WS-C3750X-12,WS-C3750X-12S-E,V04,FDO1750P0GJ,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet1/0/3""",1000BaseSX SF,GLC-SX-MMD,V01,FNS1750014P,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet1/0/1""",1000BaseSX SF,GLC-SX-MMD,V01,FNS175004U6,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet2/0/3""",1000BaseSX SF,GLC-SX-MMD,V01,FNS17500518,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet1/0/4""",1000BaseSX SF,GLC-SX-MMD,V01,FNS175006G9,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet1/0/5""",1000BaseSX SF,GLC-SX-MMD,V01,FNS175006JP,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet2/0/4""",1000BaseSX SF,GLC-SX-MMD,V01,FNS175006UF,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet2/0/2""",1000BaseSX SF,GLC-SX-MMD,V01,FNS175007BK,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet2/0/1""",1000BaseSX SF,GLC-SX-MMD,V01,FNS175007CB,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet2/0/5""",1000BaseSX SF,GLC-SX-MMD,V01,FNS17500AU8,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet1/0/2""",1000BaseSX SF,GLC-SX-MMD,V01,FNS17500AVN,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet1/0/12""",10/100/1000BaseTX SF,GLC-T,,MTC17460E9E,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet2/0/11""",10/100/1000BaseTX SF,GLC-T,,MTC17460EGM,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet1/0/10""",10/100/1000BaseTX SF,GLC-T,,MTC17460EKE,2020-08-30 21:51:00
+TP-self-signed-4139362048,"""GigabitEthernet2/0/12""",10/100/1000BaseTX SF,GLC-T,,MTC17460EUL,2020-08-30 21:51:00
+
+
+RAM/CPU :
+
+EquipSN,HostName,network,total,used,free
+FOX1402GQDD,MAR_ASR1_L2L_VPN-IAM,cbi,1740777676,259348412,1481429264,2020-09-01 11:17:00
+JAE22520FUA,SW_EQHQ_ET2,casablanca,531883004,138236944,393646060,2020-08-30 21:53:00
+JAE225214SU,SW_EQHQ_ET2,casablanca,531883004,138236944,393646060,2020-08-30 21:53:00
+JAE230201DP,SW_EQHQ_ET2,casablanca,531883004,138236944,393646060,2020-08-30 21:53:00
+FDO1750P0EQ,TP-self-signed-4139362048,rabat,443817832,53667808,390150024,2020-08-30 21:51:00
+FDO1750P0GJ,TP-self-signed-4139362048,rabat,443817832,53667808,390150024,2020-08-30 21:51:00
+
+
+FAN :
+
+HostName,Switch/PS,FANNo,network,state
+SW_EQHQ_ET2,1,1,casablanca,OK,2020-08-30 21:53:00
+SW_EQHQ_ET2,1,2,casablanca,OK,2020-08-30 21:53:00
+SW_EQHQ_ET2,PS-1,1,casablanca,NOT,2020-08-30 21:53:00
+SW_EQHQ_ET2,PS-2,1,casablanca,OK,2020-08-30 21:53:00
+SW_EQHQ_ET2,2,1,casablanca,OK,2020-08-30 21:53:00
+SW_EQHQ_ET2,2,2,casablanca,OK,2020-08-30 21:53:00
+SW_EQHQ_ET2,PS-1,1,casablanca,NOT,2020-08-30 21:53:00
+SW_EQHQ_ET2,PS-2,1,casablanca,OK,2020-08-30 21:53:00
+SW_EQHQ_ET2,3,1,casablanca,OK,2020-08-30 21:53:00
+SW_EQHQ_ET2,3,2,casablanca,OK,2020-08-30 21:53:00
+SW_EQHQ_ET2,PS-1,1,casablanca,NOT,2020-08-30 21:53:00
+SW_EQHQ_ET2,PS-2,1,casablanca,OK,2020-08-30 21:53:00
+TP-self-signed-4139362048,1,1,rabat,OK,2020-08-30 21:51:00
+TP-self-signed-4139362048,2,1,rabat,OK,2020-08-30 21:51:00
+TP-self-signed-4139362048,PS-1,1,rabat,OK,2020-08-30 21:51:00
+TP-self-signed-4139362048,PS-2,1,rabat,NOT,2020-08-30 21:51:00
+TP-self-signed-4139362048,1,1,cbi,OK,2020-09-01 12:23:00
+TP-self-signed-4139362048,2,1,cbi,OK,2020-09-01 12:23:00
+TP-self-signed-4139362048,PS-1,1,cbi,OK,2020-09-01 12:23:00
+TP-self-signed-4139362048,PS-2,1,cbi,NOT,2020-09-01 12:23:00
+
+
+Vulnerabilites :
+
+HostName,Version,Network,titre,impact,first fixed,Publication Date
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software Tcl Denial of Service Vulnerability,Medium,15.6(2)SP8,2020-06-03T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software Internet Key Exchange Version 2 Denial of Service Vulnerability,High,15.2(2)S0a,2020-06-03T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software Secure Shell Denial of Service Vulnerability,High,15.6(2)SP8,2020-06-03T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software Tcl Arbitrary Code Execution Vulnerability,Medium,15.6(2)SP8,2020-06-03T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and Cisco IOS XE Software Web UI Cross-Site Request Forgery Vulnerability,High,15.6(2)SP8,2020-01-08T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software Session Initiation Protocol Denial of Service Vulnerability,High,15.5(3)S10,2019-09-25T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software HTTP Client Information Disclosure Vulnerability,Medium,15.5(3)S10,2019-09-25T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software IP Ident Denial of Service Vulnerability,High,15.2(2)S0a,2019-09-25T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco Products IPv6 Neighbor Discovery Crafted Packet Denial of Service Vulnerability,High,15.3(3)S8a,2016-05-25T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,SNMP Remote Code Execution Vulnerabilities in Cisco IOS and IOS XE Software,High,15.2(2)S0a,2017-06-29T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software Hot Standby Router Protocol Information Leak Vulnerability,Medium,15.5(3)S9,2019-03-27T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software Cisco Discovery Protocol Denial of Service Vulnerability,Medium,15.4(3)S10,2018-09-26T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software TACACS+ Client Denial of Service Vulnerability,Medium,15.4(3)S7,2018-09-26T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software VLAN Trunking Protocol Denial of Service Vulnerability,Medium,15.1(3)S5a,2018-09-26T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,"Cisco IOS, IOS XE, and IOS XR Software Link Layer Discovery Protocol Buffer Overflow Vulnerabilities",High,15.4(3)S9,2018-03-28T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software DHCP Version 4 Relay Denial of Service Vulnerability,High,15.2(4)S5,2018-03-28T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software DHCP Version 4 Relay Heap Overflow Denial of Service Vulnerability,High,15.4(3)S9,2018-03-28T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software DHCP Version 4 Relay Reply Denial of Service Vulnerability,High,15.4(3)S9,2018-03-28T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software Internet Key Exchange Version 1 Denial of Service Vulnerability,High,15.2(2)S0a,2018-03-28T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Multiple Cisco Products OSPF LSA Manipulation Vulnerability,Medium,15.3(3)S10,2017-07-27T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software Layer 2 Tunneling Protocol Denial of Service Vulnerability,High,15.3(3)S9,2017-03-22T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,OSPF LSA Manipulation Vulnerability in Multiple Cisco Products,Medium,15.1(3)S5a,2013-08-01T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,IKEv1 Information Disclosure Vulnerability in Multiple Cisco Products,High,15.2(2)S0a,2016-09-16T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software AAA Login Denial of Service Vulnerability,High,15.3(3)S8,2016-09-28T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software DNS Forwarder Denial of Service Vulnerability,High,15.3(3)S8,2016-09-28T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software H.323 Message Validation Denial of Service Vulnerability,High,15.1(3)S5a,2016-09-28T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS and IOS XE Software Multicast Routing Denial of Service Vulnerabilities,High,15.3(3)S8,2016-09-28T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS Software and IOS XE Software TCP Packet Memory Leak Vulnerability,High,15.3(3)S5,2015-03-25T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Multiple Vulnerabilities in OpenSSL (March 2015) Affecting Cisco Products,High,15.3(3)S7,2015-03-20T20:20:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Multiple Vulnerabilities in ntpd (April 2015) Affecting Cisco Products,Medium,15.3(3)S8,2015-04-08T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Multiple Vulnerabilities in OpenSSL (January 2015) Affecting Cisco Products,Medium,15.2(4)S3a,2015-03-10T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS Software TFTP Server Denial of Service Vulnerability,High,15.2(2)S,2015-07-22T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Multiple Vulnerabilities in OpenSSL Affecting Cisco Products,Critical,15.2(4)S6,2014-06-05T22:40:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,OpenSSL RSA Temporary Key Cryptographic Downgrade Vulnerability,Medium,15.2(4)S3a,2015-01-13T19:57:19,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS Software RSVP Vulnerability,High,15.2(4)S4,2014-09-24T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS Software DHCP Version 6 Denial of Service Vulnerability,High,15.2(4)S6,2014-09-24T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS Software Session Initiation Protocol Denial of Service Vulnerability,High,15.1(3)S5a,2014-09-24T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS Software Internet Key Exchange Version 2 Denial of Service Vulnerability,High,15.1(3)S5a,2014-03-26T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS Software Network Address Translation Vulnerabilities,High,15.2(4)S5,2014-03-26T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS Software Resource Reservation Protocol Interface Queue Wedge Vulnerability,High,15.1(3)S6,2013-09-25T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS Software DHCP Denial of Service Vulnerability,High,15.1(3)S6,2013-09-25T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS Software Internet Key Exchange Memory Leak Vulnerability,High,15.1(3)S6,2013-09-25T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS Software Network Address Translation Vulnerability,High,15.1(3)S4,2013-03-27T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS Software Resource Reservation Protocol Denial of Service Vulnerability,High,15.1(3)S5,2013-03-27T16:00:00,2020-09-01 11:17:00
+MAR_ASR1_L2L_VPN-IAM,15.1(3)S2,cbi,Cisco IOS Software Network Address Translation Denial of Service Vulnerability,Medium,15.1(3)S4,2013-03-27T16:30:15,2020-09-01 11:17:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software Common Industrial Protocol Denial of Service Vulnerabilities,High,15.0(2a)SE9,2020-06-03T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software Internet Key Exchange Version 2 Denial of Service Vulnerability,High,15.0(2)SE13,2020-06-03T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software Secure Shell Denial of Service Vulnerability,High,15.2(7)E2,2020-06-03T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software Tcl Arbitrary Code Execution Vulnerability,Medium,15.2(7)E2,2020-06-03T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and Cisco IOS XE Software Web UI Cross-Site Request Forgery Vulnerability,High,15.2(6)E4,2020-01-08T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software HTTP Client Information Disclosure Vulnerability,Medium,15.0(2)SE13,2019-09-25T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco Products IPv6 Neighbor Discovery Crafted Packet Denial of Service Vulnerability,High,15.0(2)SE11,2016-05-25T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS Software Precision Time Protocol Denial of Service Vulnerability,High,15.0(2)SE12,2018-09-26T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,SNMP Remote Code Execution Vulnerabilities in Cisco IOS and IOS XE Software,High,15.0(2)SE11,2017-06-29T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software Cluster Management Protocol Remote Code Execution Vulnerability,Critical,15.0(2)SE11,2017-03-17T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software Hot Standby Router Protocol Information Leak Vulnerability,Medium,15.0(2)SE13,2019-03-27T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software Cluster Management Protocol Denial of Service Vulnerability,High,15.0(2)SE13,2019-03-27T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software IP Service Level Agreement Denial of Service Vulnerability,High,15.0(2)SE12,2019-03-27T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software Cisco Discovery Protocol Denial of Service Vulnerability,Medium,15.0(2)SE12,2018-09-26T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software Cluster Management Protocol Denial of Service Vulnerability,High,15.0(2)SE12,2018-09-26T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software TACACS+ Client Denial of Service Vulnerability,Medium,15.0(2)SE12,2018-09-26T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software VLAN Trunking Protocol Denial of Service Vulnerability,Medium,15.0(2)SE12,2018-09-26T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software Smart Install Denial of Service Vulnerability,High,15.0(2)SE12,2018-03-28T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software Smart Install Remote Code Execution Vulnerability,Critical,15.0(2)SE12,2018-03-28T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,"Cisco IOS, IOS XE, and IOS XR Software Link Layer Discovery Protocol Buffer Overflow Vulnerabilities",High,15.0(2)SE12,2018-03-28T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software DHCP Version 4 Relay Denial of Service Vulnerability,High,15.0(2)SE12,2018-03-28T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software DHCP Version 4 Relay Heap Overflow Denial of Service Vulnerability,High,15.0(2)SE12,2018-03-28T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software DHCP Version 4 Relay Reply Denial of Service Vulnerability,High,15.0(2)SE12,2018-03-28T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software Internet Key Exchange Version 1 Denial of Service Vulnerability,High,15.0(2)SE12,2018-03-28T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software EnergyWise Denial of Service Vulnerabilities,High,15.0(2)SE12,2017-04-19T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software DHCP Remote Code Execution Vulnerability,Critical,15.0(2)SE11,2017-09-27T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS Software for Cisco Industrial Ethernet Switches PROFINET Denial of Service Vulnerability,High,15.0(2)SE11,2017-09-27T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software Internet Key Exchange Denial of Service Vulnerability,High,15.2(2)E7,2017-09-27T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS and IOS XE Software Plug-and-Play PKI API Certificate Validation Vulnerability,High,15.0(2)SE11,2017-09-27T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Cisco IOS Software Common Industrial Protocol Request Denial of Service Vulnerabilities,High,15.0(2)SE13,2017-09-27T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Multiple Cisco Products OSPF LSA Manipulation Vulnerability,Medium,15.0(2)SE11,2017-07-27T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,rabat,Multiple Vulnerabilities in Cisco IOS Software Common Industrial Protocol,High,15.0(2)SE13,2015-03-25T16:00:00,2020-08-30 21:51:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software Common Industrial Protocol Denial of Service Vulnerabilities,High,15.0(2a)SE9,2020-06-03T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software Internet Key Exchange Version 2 Denial of Service Vulnerability,High,15.0(2)SE13,2020-06-03T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software Secure Shell Denial of Service Vulnerability,High,15.2(7)E2,2020-06-03T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software Tcl Arbitrary Code Execution Vulnerability,Medium,15.2(7)E2,2020-06-03T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and Cisco IOS XE Software Web UI Cross-Site Request Forgery Vulnerability,High,15.2(6)E4,2020-01-08T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software HTTP Client Information Disclosure Vulnerability,Medium,15.0(2)SE13,2019-09-25T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco Products IPv6 Neighbor Discovery Crafted Packet Denial of Service Vulnerability,High,15.0(2)SE11,2016-05-25T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS Software Precision Time Protocol Denial of Service Vulnerability,High,15.0(2)SE12,2018-09-26T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,SNMP Remote Code Execution Vulnerabilities in Cisco IOS and IOS XE Software,High,15.0(2)SE11,2017-06-29T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software Cluster Management Protocol Remote Code Execution Vulnerability,Critical,15.0(2)SE11,2017-03-17T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software Hot Standby Router Protocol Information Leak Vulnerability,Medium,15.0(2)SE13,2019-03-27T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software Cluster Management Protocol Denial of Service Vulnerability,High,15.0(2)SE13,2019-03-27T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software IP Service Level Agreement Denial of Service Vulnerability,High,15.0(2)SE12,2019-03-27T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software Cisco Discovery Protocol Denial of Service Vulnerability,Medium,15.0(2)SE12,2018-09-26T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software Cluster Management Protocol Denial of Service Vulnerability,High,15.0(2)SE12,2018-09-26T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software TACACS+ Client Denial of Service Vulnerability,Medium,15.0(2)SE12,2018-09-26T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software VLAN Trunking Protocol Denial of Service Vulnerability,Medium,15.0(2)SE12,2018-09-26T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software Smart Install Denial of Service Vulnerability,High,15.0(2)SE12,2018-03-28T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software Smart Install Remote Code Execution Vulnerability,Critical,15.0(2)SE12,2018-03-28T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,"Cisco IOS, IOS XE, and IOS XR Software Link Layer Discovery Protocol Buffer Overflow Vulnerabilities",High,15.0(2)SE12,2018-03-28T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software DHCP Version 4 Relay Denial of Service Vulnerability,High,15.0(2)SE12,2018-03-28T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software DHCP Version 4 Relay Heap Overflow Denial of Service Vulnerability,High,15.0(2)SE12,2018-03-28T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software DHCP Version 4 Relay Reply Denial of Service Vulnerability,High,15.0(2)SE12,2018-03-28T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software Internet Key Exchange Version 1 Denial of Service Vulnerability,High,15.0(2)SE12,2018-03-28T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software EnergyWise Denial of Service Vulnerabilities,High,15.0(2)SE12,2017-04-19T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software DHCP Remote Code Execution Vulnerability,Critical,15.0(2)SE11,2017-09-27T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS Software for Cisco Industrial Ethernet Switches PROFINET Denial of Service Vulnerability,High,15.0(2)SE11,2017-09-27T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software Internet Key Exchange Denial of Service Vulnerability,High,15.2(2)E7,2017-09-27T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS and IOS XE Software Plug-and-Play PKI API Certificate Validation Vulnerability,High,15.0(2)SE11,2017-09-27T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Cisco IOS Software Common Industrial Protocol Request Denial of Service Vulnerabilities,High,15.0(2)SE13,2017-09-27T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Multiple Cisco Products OSPF LSA Manipulation Vulnerability,Medium,15.0(2)SE11,2017-07-27T16:00:00,2020-09-01 12:23:00
+TP-self-signed-4139362048,15.0(2)SE10a,cbi,Multiple Vulnerabilities in Cisco IOS Software Common Industrial Protocol,High,15.0(2)SE13,2015-03-25T16:00:00,2020-09-01 12:23:00
+
+
+EOX :
+
+HostName,SerialNo,Network,EndOfSaleDate,EndOfServiceContractRenewal,EndOfSWMaintenanceReleases,EndOfSvcAttachDate,EOXExternalAnnouncementDate,EOXMigrationDetails
+MAR_ASR1_L2L_VPN-IAM,FOX1402GQDD,cbi,2016-04-29,2020-07-28,,2017-04-29,2015-04-30,ASR1002-X=,2020-09-01 11:17:00
+SW_EQHQ_ET2,JAE22520FUA,casablanca,,,,,,,2020-08-30 21:53:00
+SW_EQHQ_ET2,JAE225214SU,casablanca,,,,,,,2020-08-30 21:53:00
+SW_EQHQ_ET2,JAE230201DP,casablanca,,,,,,,2020-08-30 21:53:00
+TP-self-signed-4139362048,FDO1750P0EQ,rabat,2016-10-30,2021-01-28,2017-10-30,2017-10-30,2015-10-31,WS-C3850-12S-E,2020-08-30 21:51:00
+TP-self-signed-4139362048,FDO1750P0GJ,rabat,2016-10-30,2021-01-28,2017-10-30,2017-10-30,2015-10-31,WS-C3850-12S-E,2020-08-30 21:51:00
